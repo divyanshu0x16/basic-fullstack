@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: divyanshu22/crud-frontend@sha256:c51abe0067f8f769c5ab336d8d3cd1fdd8d6c349440158bf88f058977c3c5064
+        image: divyanshu22/crud-frontend@sha256:ac71603de2603b2dd2e9f48b69ebc1f00a1112989b99d728d96c6420f1795c9a
         ports:
         - containerPort: 80
 ---
